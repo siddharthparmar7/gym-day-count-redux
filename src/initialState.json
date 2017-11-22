@@ -1,0 +1,28 @@
+{
+    "allGymDays":[
+        {
+            "location": "Lewis Center",
+            "date": "04-09-2017",
+            "freeEx": true,
+            "dayOff": false
+        },
+        {
+            "location": "Comox",
+            "date": "05-09-2017",
+            "freeEx": false,
+            "dayOff": false
+        },
+        {
+            "location": "Lewis Center",
+            "date": "06-09-2017",
+            "freeEx": true,
+            "dayOff": false
+        }
+    ],
+    "goal": 10,
+    "errors": [],
+    "locations" : {
+        "fetching": false,
+        "suggestions": ["Comox", "Courtenay", "Campbel River"]
+    }
+}
