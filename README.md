@@ -3,9 +3,9 @@
 
 Below you will find some information on how to perform common tasks.
 
-To Run this project on your machine
+# To Run this project on your machine
 - clone this repository to your machine
-- And run these commands from the same dir.
+- And run these commands from the same dir. 
 - npm install
 - npm start
 
