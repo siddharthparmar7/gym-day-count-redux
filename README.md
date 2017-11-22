@@ -1,7 +1,8 @@
 # Author: Siddharth Parmar
 # Project: Redux Demo project with FETCH API and more
 
-Below you will find some information on how to perform common tasks. <br>
+Below you will find some information on how to perform common tasks.
+
 To Run this project on your machine
 - clone this repository to your machine
 - And run these commands from the same dir.
