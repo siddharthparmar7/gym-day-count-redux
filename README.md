@@ -8,6 +8,9 @@ To Run this project on your machine
 - npm install
 - npm start
 
+# Note:
+If you are looking for output,check the console. This is intetional.
+
 #Table of Contents
 This is a demo project on how to use Redux. This project is simmilar to my gym-day-count (ReactJS) but this project enables more functions to that project. This is something really exciting and so much fun!
 
